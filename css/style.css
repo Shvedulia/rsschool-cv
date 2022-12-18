@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .container {
+    width: 1000px;
+    margin: 20px auto;
+    background-color: #9370DB;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    border-radius: 10px;
+  }
+  
+  header{
+    text-align: center;
+    padding-top:50px;
+  }
+  
+  .avatar{
+    border-radius: 25%;
+    width: 150px;
+    text-align: center;
+  }
+  
+  h1{
+  text-align: center;
+  margin: 20px;
+  font-size: 2em;
+  color: black;
+  }
+  
+  nav{
+    background-color:grey;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu {
+    list-style: none;
+    font-size: 20px;
+  }
+  
+  .menu li {
+    display: inline-block;
+    width: 12%;
+    text-align: center;
+    font-family:  Arial, Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .menu li a {
+    color: white;
+    font-size: 18px;
+    display: block;
+    padding: 10px 2px;
+  }
+  
+  .menu li a:hover {
+    background: #9370DB;
+  }
+  
+  h2{
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin: 50px 200px;
+  }
+  
+  .lists{
+   margin-left: 300px; 
+   font-size: 22px;
+   line-height: 40px;
+  }
+  
+  h3{
+    margin-left: 250px;
+    font-size: 26px;
+    margin-top: 30px;
+  }
+  
+  p{
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .code{
+    background-color: black;
+    margin: 0 150px;
+    font-size: 15px ;
+  }
+  
+  .footer{
+    border-top: dashed 6px ;
+    margin-top: 40px;
+  }
+  
+  .footer li{
+    display: inline-block;
+    border-right: solid 2px white;
+    text-align: center;
+    font-family:  Arial, Verdana, Geneva, Tahoma, sans-serif;
+    padding:0 35px;
+    margin: 15px 0;
+  
+  }
+  
+  .footer li:last-child {
+    border: none;
+  }
+  
+  .logo{
+    width: 46px;
+  }
+  
+  .links{
+    margin-left: 300px; 
+    font-size: 22px;
+    text-decoration: underline;
+    padding: 20px;
+  }
