@@ -1,4 +1,4 @@
 # rsschool-cv 
 
-https://shvedulia.github.io/rsschool-cv/cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+* https://shvedulia.github.io/rsschool-cv/cv
+* https://shvedulia.github.io/rsschool-cv/
